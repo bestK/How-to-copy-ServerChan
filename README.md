@@ -45,3 +45,8 @@ Server酱」，英文名「ServerChan」，是一款「程序员」和「服务�
 ###  push msg
 
 略.
+
+
+
+---
+别忘了，这一切都要从拥有一个微信公众号开始。 [微信公众平台接口测试帐号申请](http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)
