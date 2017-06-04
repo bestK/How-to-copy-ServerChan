@@ -35,7 +35,7 @@ Server酱」，英文名「ServerChan」，是一款「程序员」和「服务�
 
 ### getOpenidByKey
 
-当用户构造一个类似 **https://example.com/push_msg?key=8888888888 ** 的请求时，我们的程序应该如下处理：
+当用户构造一个类似 **https://example.com/push_msg?key=8888888888**  的请求时，我们的程序应该如下处理：
 
 ... 
 
